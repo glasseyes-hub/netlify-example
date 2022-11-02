@@ -2,7 +2,7 @@
   "name": "yandex",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "dev": "parcel index.pug",
     "build": "parcel build index.pug"
